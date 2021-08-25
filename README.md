@@ -1,4 +1,4 @@
-# Gaming Data Python Analysis
+# MMORPG Purchase Data Analysis
 ## Summary
 This exercise was completed in collaboration with Ashley Parra (AP).
 
